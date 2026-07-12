@@ -9,6 +9,8 @@ This repository reproduces the spatial transcriptomics workflow described in the
 
 The notebook demonstrates an end-to-end workflow, beginning with downloading raw data directly from the Gene Expression Omnibus (GEO), followed by preprocessing, quality control, spatial transcriptomic analysis, and visualization of spatial gene expression patterns on matched H&E tissue sections.
 
+The codes and the entire analysis is available on this repo as a pdf file named Visium_BLCA_ParulK
+
 ---
 
 ## Reference
