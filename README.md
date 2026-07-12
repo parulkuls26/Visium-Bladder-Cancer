@@ -82,6 +82,11 @@ B-cell markers
 Urothelial marker
 
 - KRT20
+- UPK1A
+- UPK2
+- UPK3A
+- KRT20
+- GATA3
 
 ---
 
